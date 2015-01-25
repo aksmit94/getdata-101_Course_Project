@@ -36,7 +36,7 @@
   
 7. **Setting variable names (column names) of  x from features vector obtained from above by** *names()*
 
-8. **Joining sub, x and y (in this order) into a resulting data frame named xysub by** *cbind()*
+8. **Joining sub, y and x (in this order) into a resulting data frame named xysub by** *cbind()*
 
 9. **Assigning column names to xysub by** *names()*
 
