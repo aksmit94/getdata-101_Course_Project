@@ -1,4 +1,4 @@
-# 										Human Activity Recognition Using Smartphones Dataset
+# 										Codebook for Human Activity Recognition Using Smartphones Dataset
 
 Note: This dataset was created using variables and observations from *x_train.txt*, *y_train.txt*, *subject_train.txt*, *x_test.txt*, *y_test.txt*, *subject_test.txt*, *features.txt* and *activity_labels.txt*.
 	  Values from *Inertial Signals* were **not** considered since they were redundant for what the question had demanded.
