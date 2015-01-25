@@ -30,7 +30,7 @@ Description: Average of mean value of linear body acceleration in Y from acceler
 
 Double Float Value
 
- ###Avg-tBodyAcc-mean-Z
+###Avg-tBodyAcc-mean-Z
 Description: Average of mean values of linear body acceleration in Z from accelerometer
  
 Double Float Value
