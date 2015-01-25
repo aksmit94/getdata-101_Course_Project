@@ -38,11 +38,10 @@
 
 8. **Joining sub, y and x (in this order) into a resulting data frame named xysub by** *cbind()*
 
-9. **Assigning column names to xysub by** *names()*
+9. **Assigning column names to 1st and 2nd colums of xysub by** *names()*
 
   1. Column corresponding to sub i.e. 1st column: "Subject"
   2. Column corresponding to y i.e. 2nd column: "Activity_Label"
-  3. Column corresponding to x i.e. 3rd to 81st column: features 
   
 10. **Making name vector lblnames from actlbl by** *as.factor(as.character())*
 
