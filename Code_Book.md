@@ -7,10 +7,12 @@ Note: This dataset was created using variables and observations from *x_train.tx
 
 ###Subject
 Description : Volunteer ID for activity recognition
+
 Integers (1:30)
 
 ###Activity_Label
 Description: Type of activity done by the subject
+
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
