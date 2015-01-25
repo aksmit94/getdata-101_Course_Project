@@ -27,7 +27,7 @@
 
 4. **Removing all "()" present in column names in features by** *gsub()*
 
-5. **Storing "feature" indices with strings "mean" or "std" in "feat" (and thereby including much debated "meanfreq" also) by** *grep(...,fixed = F)*
+5. **Storing "feature" indices with strings "mean" or "std" in feat (and thereby including much debated "meanfreq" also) by** *grep(...,fixed = F)*
 
 6. **Subsetting according to feat by** *[ ] operator*
 
